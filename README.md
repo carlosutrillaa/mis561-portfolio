@@ -7,3 +7,7 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of 
 Advancing in Excel/Tableau - Pt. 2 
 Developed a profitability analysis by segment and used a bar chart to clearly show that the Consumer segment generates only $723 in net contribution, compared with $8,024 for Corporate and $14,568 for Home Office, highlighting the need to reevaluate Consumer account profitability.
 [a link to your published Tableau workbook](https://public.tableau.com/views/AdvancinginExcelTableau-Pt_2/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I'd of planned earlier and spent more time cleaning in up.
+
+
+MIS561, Sep 28, 2026. https://public.tableau.com/views/PowerBITrainingCertifications_17906598194050/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
