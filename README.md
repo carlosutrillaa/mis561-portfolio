@@ -12,4 +12,5 @@ Developed a profitability analysis by segment and used a bar chart to clearly sh
 MIS561, Sep 28, 2026. https://public.tableau.com/views/PowerBITrainingCertifications_17906598194050/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 MIS561, Oct 5, 2026. https://public.tableau.com/views/PowerBI_17906597024290/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 In Flex 4, I calculated how much revenue Bikes generated in 2018 by adding up the LinePrice and filtering for Bikes and the year 2018. I would use a measure in Power BI because the total revenue can change depending on the filters being used. This makes it easier for Anita to look at revenue for different products or years without having to create a new calculation every time.
