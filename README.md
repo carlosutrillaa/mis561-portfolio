@@ -14,3 +14,12 @@ MIS561, Sep 28, 2026. https://public.tableau.com/views/PowerBITrainingCertificat
 MIS561, Oct 5, 2026. https://public.tableau.com/views/PowerBI_17906597024290/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 In Flex 4, I calculated how much revenue Bikes generated in 2018 by adding up the LinePrice and filtering for Bikes and the year 2018. I would use a measure in Power BI because the total revenue can change depending on the filters being used. This makes it easier for Anita to look at revenue for different products or years without having to create a new calculation every time.
+
+Data Visualization in Power BI, Oct 12, 2026. https://public.tableau.com/views/PowerBI_17906597024290/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dear Sarah,
+I believe I am ready to contribute to business intelligence work at Southwest Office Solutions because I have learned how to use data to identify trends and support better decisions. In Flex 4, I calculated the revenue Bikes generated in 2018 by summing LinePrice and filtering by product category and year. I would improve this view in Power BI by adding conditional formatting to highlight products with lower revenue, helping Anita quickly identify areas that need attention. Another example is when I used DAX to calculate revenue by product category and year, allowing users to compare sales performance by changing filters instead of creating new calculations.
+I also understand that each tool has its strengths. I would use Excel for quick calculations, data cleaning, and smaller datasets. Tableau would be useful for creating interactive dashboards and presenting insights, while Power BI would be my choice for recurring reports because its filters and slicers allow users to explore data by region, product, or time period.
+One area I still need to improve is creating more complex DAX measures. I plan to practice with larger datasets and more advanced calculations to strengthen my skills. Overall, I believe I am ready to apply what I have learned while continuing to develop my skills at Southwest.
+
+
