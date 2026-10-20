@@ -23,3 +23,9 @@ I also understand that each tool has its strengths. I would use Excel for quick 
 One area I still need to improve is creating more complex DAX measures. I plan to practice with larger datasets and more advanced calculations to strengthen my skills. Overall, I believe I am ready to apply what I have learned while continuing to develop my skills at Southwest.
 
 
+Advancing in Excel & Tableau Pt. 3: Card Portfolio Review – Contactless Readiness
+Which non contactless cards should Bear Down Bank replace early to improve tap-to-pay access while avoiding unnecessary replacement costs?
+[Card Portfolio – Contactless Readiness](https://public.tableau.com/shared/4H5R6XM2D?:display_count=n&:origin=viz_share_link)
+If I did this again, I would simplify the dashboard layout to make the main findings easier to spot.
+
+
