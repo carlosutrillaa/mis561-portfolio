@@ -34,7 +34,7 @@ I chose a bar chart because it makes the eligibility rates easy to compare. Sort
 I considered a pie chart but rejected it because the percentages describe eligibility within each generation, rather than parts of one total.
 
 Advancing in Excel & Tableau Pt. 4: Card Growth Analysis – Wildcat Rewards Offer
-[Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/cardanalysis_17930848493550/DesignJustification?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/AdvancinginExcelTableau-Pt_4/ExplanatoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 If I did this again, I would simplify the dashboard layout to make the main findings easier to spot.
 
 
