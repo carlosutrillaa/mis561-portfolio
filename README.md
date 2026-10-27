@@ -28,4 +28,13 @@ Which non contactless cards should Bear Down Bank replace early to improve tap-t
 [Card Portfolio – Contactless Readiness](https://public.tableau.com/shared/4H5R6XM2D?:display_count=n&:origin=viz_share_link)
 If I did this again, I would simplify the dashboard layout to make the main findings easier to spot.
 
+This visual is for Jordan Ellis, VP of Card Growth, to decide which customer group should receive the first Wildcat Rewards pilot mailing.
+I recommend starting with the 128 eligible Gen Z customers. At the approved FICO cutoff of 670, 26.45% of Gen Z customers qualify, the highest eligibility rate among the five generations. These customers also meet the other two requirements: no existing Bear Down Bank credit card and total debt below twice their yearly income.
+I chose a bar chart because it makes the eligibility rates easy to compare. Sorting the bars from highest to lowest shows the strongest group immediately. Highlighting Gen Z in blue and keeping the other bars neutral draws attention to the recommendation, while the percentage labels show the exact results. Using rates accounts for differences in the size of each generation.
+I considered a pie chart but rejected it because the percentages describe eligibility within each generation, rather than parts of one total.
+
+Advancing in Excel & Tableau Pt. 4: Card Growth Analysis – Wildcat Rewards Offer
+[Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/cardanalysis_17930848493550/DesignJustification?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+If I did this again, I would simplify the dashboard layout to make the main findings easier to spot.
+
 
