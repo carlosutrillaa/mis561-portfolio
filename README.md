@@ -37,4 +37,14 @@ Advancing in Excel & Tableau Pt. 4: Card Growth Analysis – Wildcat Rewards Off
 [Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/AdvancinginExcelTableau-Pt_4/ExplanatoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 If I did this again, I would simplify the dashboard layout to make the main findings easier to spot.
 
+Nov 2, 2026 · Data Storytelling with Adobe Express
+
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace 211 non-contactless cards early for $1,688 so customers do not have to wait more than 12 months for tap-to-pay.
+
+[Work Sample PDF](https://github.com/carlosutrillaa/mis561-portfolio/blob/main/adobe/utrilla-data-storytelling.pdf)
+[Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:c3d165ad-8d22-5584-888e-14711e578215?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Design choice: I used a horizontal stacked bar chart so Renee can compare the cards selected for early replacement with the remaining cards by card type. I considered a pie chart, but bars make those comparisons clearer. I combined the two shorter replacement windows into one gray section and reserved red for the 211 cards being replaced, making the recommended batch stand out.
+
+Training completed: Nov 2, 2026
 
